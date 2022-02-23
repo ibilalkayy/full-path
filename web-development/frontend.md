@@ -28,7 +28,7 @@ The first step is to start learning some of the fundamental skills that front-en
 
 Front-end web developers use three primary coding languages to code the website.
 
-## Step 1: HTML + CSS
+## **Step 1: HTML + CSS**
 
 When you’re starting with web development, it’s important that you first learn *HTML* and *CSS*, which are the fundamentals of learning how to build websites. It would be best if you learned how to structure responsive static pages to start your web development journey.
 
@@ -46,7 +46,7 @@ Consider a document written in *HTML* and styled using *CSS* (Cascading Style Sh
 
 You can also learn a *CSS* framework like Materialize or Bootstrap, which significantly speeds up your development, but it’s not needed.
 
-## Step 2: Javascript
+## **Step 2: Javascript**
 
 The next step is to learn *Javascript*. You should learn basic concepts like data types, variables, general conventions, string manipulation, arithmetic and operators, control statements, loops, etc. 
 
@@ -92,4 +92,4 @@ Version control systems let you keep track of changes that have been made to cod
 
 Let’s say you add a customized jQuery plugin and suddenly half of your other code breaks. Rather than having to scramble to manually undo it and fix all of the errors, you can roll back to a previous version and then try it again with a different solution — like hitting a reset button.
 
-Git is the most widely used of these version control management systems and can be installed using the command line. Knowing how to use Git is going to be a requirement for virtually any development job, be it front-end development, back-end development, or full-stack development. This is one of those vital job skills that developers need to have but few actually talk about.
+[Git](https://git-scm.com/) is the most widely used of these version control management systems and can be installed using the command line. Knowing how to use Git is going to be a requirement for virtually any development job, be it front-end development, back-end development, or full-stack development. This is one of those vital job skills that developers need to have but few actually talk about.

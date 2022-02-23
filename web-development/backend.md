@@ -116,6 +116,6 @@ You can do this by making projects to deepen your programming skills and get han
 ### **Pro tips:**
 
 - Don't wait till you learn enough theory before starting a project.
-- Leverage GitHub to learn more from other developers. Study their code and analyze how they went about solving technical challenges similar to your case.
+- Leverage [GitHub](https://github.com/) to learn more from other developers. Study their code and analyze how they went about solving technical challenges similar to your case.
 - Be patient with yourself. Bugs in your code makes you a better problem solver. Use [scientific debugging](https://medium.com/machine-words/scientific-debugging-part-1-8890b73b6c4c) principles to narrow down your challenges.
 - Go through what other developers have to say in forums like StackOverflow.
