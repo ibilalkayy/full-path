@@ -66,3 +66,19 @@ You’re probably not going to see many job listings that say a company is looki
 - [Codedamn](https://www.youtube.com/c/codedamn)
 - [Simplilearn](https://www.youtube.com/c/SimplilearnOfficial)
 - [Fireship](https://www.youtube.com/c/Fireship)
+
+## **Job Sites**
+
+- [LinkedIn](https://www.linkedin.com/)
+- [Indeed](https://www.indeed.com/)
+- [Twitter](https://www.twitter.com)
+- [Dice](https://www.dice.com/)
+- [Guru](https://www.guru.com/)
+- [Showwcase](https://www.showwcase.com)
+- [Glassdoor](https://www.glassdoor.com/)
+- [StackOverflow](https://stackoverflow.com/jobs)
+- [Angel List](https://angel.co/jobs)
+- [Authentic Jobs](https://authenticjobs.com/)
+- [IT Job Pro](https://itjobpro.com/)
+- [Cyber Coder](https://www.cybercoders.com/)
+- [Smashing Jobs](https://jobs.smashingmagazine.com/)
