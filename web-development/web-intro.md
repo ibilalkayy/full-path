@@ -37,6 +37,12 @@ You can start with any one of them.
 
 A Full-Stack Developer is familiar with both front-and back-end development and works with both sides of a website. They understand, and can work across, the “full stack” of technology: i.e. both the frontend and the backend. Full stack developers are experts in every stage of the web development process, meaning they are well-equipped to get hands on.
 
+## The difference between web development and web design
+
+Just like with software engineering, you might also hear the terms “web development” and “web design” used interchangeably, but these are two very different things.
+
+Imagine a web designer and web developer working together to build a car: the developer would take care of all the functional components, like the engine, the wheels and the gears, while the designer would be responsible for both the visual aspects—how the car looks, the layout of the dashboard, the design of the seats—and for the user experience provided by the car.
+
 ## Note: 
 
 You’re probably not going to see many job listings that say a company is looking for a “backend developer.” Instead, you’ll find listings looking for Ruby developers or Python developers, etc., because the actual programming language a developer knows is key to being the right fit for a particular job.
