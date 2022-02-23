@@ -45,3 +45,24 @@ Imagine a web designer and web developer working together to build a car: the de
 ## Note: 
 
 You’re probably not going to see many job listings that say a company is looking for a “backend developer.” Instead, you’ll find listings looking for Ruby developers or Python developers, etc., because the actual programming language a developer knows is key to being the right fit for a particular job.
+
+# Resources
+
+## **YouTube channels**
+
+- [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- [Coder Foundry](https://www.youtube.com/channel/UCTGgxc_jIz2z9mpfInuPHWQ)
+- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+- [Corey Schefar](https://www.youtube.com/user/schafer5)
+- [Programming Knowledge](https://www.youtube.com/user/ProgrammingKnowledge)
+- [Programming With Mosh](https://www.youtube.com/c/programmingwithmosh)
+- [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+- [Hitesh Chaudhary](https://www.youtube.com/c/HiteshChoudharydotcom)
+- [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
+- [Tiff in Tech](https://www.youtube.com/c/TiffInTech)
+- [Devslopes](https://www.youtube.com/c/devslopes)
+- [Codedamn](https://www.youtube.com/c/codedamn)
+- [Simplilearn](https://www.youtube.com/c/SimplilearnOfficial)
+- [Fireship](https://www.youtube.com/c/Fireship)
