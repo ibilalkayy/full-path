@@ -1,5 +1,11 @@
 # What Is a Back-End Developer?
 
+Web development activities that are done at the back end of programs are referred to as back end development. Back-end development covers server-side web application logic and integration and activities, like writing APIs, creating libraries, and working with system components instead of frontend development, which focuses on customer-facing services and programs.
+
+Backend developers build code that allows a database and an application to communicate with one another. Backend developers take care and maintain the back-end of a website, Including databases, servers, and apps, and they control what you don't see.
+
+A backend developer's job entails focusing on website architecture, scripting, and writing code that communicates between the website’s database and the user's browser. Data consistency and integrity must be ensured.
+
 # What does a backend developer do?
 
 Backend developer are in charge of the proper functioning of a web application. They write logical code to implement the functionality and enhance the speed and efficiency of a web app.
@@ -74,7 +80,7 @@ Another popular Python-based framework that is equally loved and used by develop
 
 Databases are used to store data and save memory load of the web server. When a client makes a data request, the backend acts as a middleman to retrieve the corresponding response from the database and send it to the client. A client can also submit data to be added to the database.
 
-As a backend developer, you must be familiar with database concepts to store data in the database(MySQL, MongoDB, etc.) and also caching(Redis) for quick access of data.
+As a backend developer, you must be familiar with database concepts to store data in the database(MySQL, MongoDB, etc.) and also caching([Redis](https://www.crio.do/blog/what-is-redis/?utm_source=blog-int)) for quick access of data.
 
 ## **3. Handling APIs**
 
@@ -93,7 +99,7 @@ You can use APIs to fetch data for your application. For instance, if you are bu
 
 Software version control systems store all the previous versions of your code in repositories so that they can be accessed later. This is useful, especially when you lose some piece of your code or if a bug is introduced.
 
-Having a software version control system like Git, enables you to roll back to previous version of the codebase.
+Having a software version control system like [Git](https://git-scm.com/), enables you to roll back to previous version of the codebase.
 
 Git also allows multiple developers to collaborate on the same project. Each developer works on their own Git branches. When features are ready to be integrated into the main application, the relevant Git branches are merged into the main branch which is then deployed to the staging servers (where all the features are tested together) and eventually to the production application servers.
 
@@ -111,5 +117,5 @@ You can do this by making projects to deepen your programming skills and get han
 
 - Don't wait till you learn enough theory before starting a project.
 - Leverage GitHub to learn more from other developers. Study their code and analyze how they went about solving technical challenges similar to your case.
-- Be patient with yourself. Bugs in your code makes you a better problem solver. Use scientific debugging principles to narrow down your challenges.
+- Be patient with yourself. Bugs in your code makes you a better problem solver. Use [scientific debugging](https://medium.com/machine-words/scientific-debugging-part-1-8890b73b6c4c) principles to narrow down your challenges.
 - Go through what other developers have to say in forums like StackOverflow.

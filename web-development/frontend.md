@@ -68,6 +68,14 @@ Libraries and frameworks are essentially sets of prewritten code, but libraries 
 
 While learning *JavaScript* frameworks does take time, they really speed up development by giving you a jumpstart, and can be used with libraries like jQuery to minimize how much from-scratch coding you have to do (if you have time, you can find some free tutorial also).
 
+### **Experience with RESTful Services and APIs**
+
+Without getting too technical on this one, REST stands for Representational State Transfer. In basic terms, it’s a lightweight architecture that simplifies network communication on the web, and RESTful services and APIs are web services that adhere to REST architecture.
+
+Let’s say you wanted to write an app that shows you all of your social media friends in the order in which you became friends. You could make calls to Facebook’s RESTful API to read your friends list and return that data. As a front end web developer, you could call Twitter’s API as well (Twitter also uses RESTful APIs). The general process is the same for any service that uses RESTful APIs, only the data returned will be different.
+
+While it all sounds really complicated and technical, it’s a simple set of guidelines and practices that sets expectations so you know how to communicate with a web service. It also makes a web service perform better, scale better, work more reliably, and be easier to modify or move.
+
 ### **Responsive and Mobile Design**
 
 It’s no wonder that responsive and mobile design skills are super important to employers. Responsive design means that the site’s layout (and sometimes functionality and content) change based on the screen size and device someone is using.
