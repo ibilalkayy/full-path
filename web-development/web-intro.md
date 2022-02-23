@@ -28,7 +28,7 @@ Back-End programming languages include:
     • Java
     • Golang
     • Python
-    • Ruby on Rails
+    • Ruby
     • NodeJS
 
 You can start with any one of them.

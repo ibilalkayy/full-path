@@ -78,7 +78,7 @@ Mobile design can include responsive design, but can also mean creating separate
 
 In those cases, it makes sense for the mobile site to be completely different. A bank website with online banking would benefit from a separate mobile site that lets users view things like the closest bank location and a simplified account view (since mobile screens are smaller).
 
-### **Git and Version Control Systems**
+### **Version Control System**
 
 Version control systems let you keep track of changes that have been made to code over time. They also make it easy to revert back to an earlier version if you screw something up.
 
