@@ -48,7 +48,7 @@ You’re probably not going to see many job listings that say a company is looki
 
 # Resources
 
-## **YouTube channels**
+## **YouTube Channels**
 
 - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
@@ -66,6 +66,12 @@ You’re probably not going to see many job listings that say a company is looki
 - [Codedamn](https://www.youtube.com/c/codedamn)
 - [Simplilearn](https://www.youtube.com/c/SimplilearnOfficial)
 - [Fireship](https://www.youtube.com/c/Fireship)
+
+## **YouTube Videos**
+
+- [Guide To Becoming A Self-Taught Software Developer](https://www.youtube.com/watch?v=J6rVaFzOEP8)
+- [Web Development In 2022 - A Practical Guide](https://www.youtube.com/watch?v=EqzUcMzfV1w)
+- [10 Ways To Be A Better Developer](https://www.youtube.com/watch?v=mK7lDooAGJw)
 
 ## **Job Sites**
 

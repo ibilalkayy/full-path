@@ -93,3 +93,23 @@ Version control systems let you keep track of changes that have been made to cod
 Let’s say you add a customized jQuery plugin and suddenly half of your other code breaks. Rather than having to scramble to manually undo it and fix all of the errors, you can roll back to a previous version and then try it again with a different solution — like hitting a reset button.
 
 [Git](https://git-scm.com/) is the most widely used of these version control management systems and can be installed using the command line. Knowing how to use Git is going to be a requirement for virtually any development job, be it front-end development, back-end development, or full-stack development. This is one of those vital job skills that developers need to have but few actually talk about.
+
+
+# Resources
+
+## **YouTube Videos**
+
+- [5 Front-end Development Skills to Land Your First Job](https://www.youtube.com/watch?v=-_X6PhkjpzU)
+
+### **HTML Tutorials**
+
+- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [HTML Tutorial for Beginners: HTML Crash Course ](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+- [HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://www.youtube.com/watch?v=D-h8L5hgW-w)
+
+### **CSS Tutorials**
+
+- [CSS Tutorial - Zero to Hero (Complete Course)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [Learn CSS in 20 Minutes](https://www.youtube.com/watch?v=1PnVor36_40)
+- [Learn HTML5 and CSS3 From Scratch - Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc)
