@@ -82,36 +82,6 @@ Every Android app has to be aligned with the Material Design language guidelines
 
 The knowledge of an Integrated Development Environment (IDE) such as Android Studio or any other is also an important skill to have. Familiarity with Android Studio will help you work more efficiently. In particular, you can benefit from the built-in debugger and testing tools to write bug-free code.
 
-## Find Work
-
-If you want to find a freelance Android developer job, you can look for clients on the following platforms:
-
-- [Upwork](https://www.upwork.com/) 
-- [Hubstaff](https://hubstaff.com/)
-- [Freelancer](https://www.freelancer.com/)
-- [Outsourcely](https://www.outsourcely.com/)
-- [Freeeup](https://freeup.net/)
-- [PeoplePerHour](https://www.peopleperhour.com/)
-
-If you are looking for how to be an Android developer in a full-time job, you can try the following job boards and platforms:
-
-- [LinkedIn](https://www.linkedin.com/)
-- [Indeed](https://www.indeed.com/)
-- [Twitter](https://www.twitter.com)
-- [Dice](https://www.dice.com/)
-- [Guru](https://www.guru.com/)
-- [Showwcase](https://www.showwcase.com)
-- [Glassdoor](https://www.glassdoor.com/)
-- [StackOverflow](https://stackoverflow.com/jobs)
-- [Angel List](https://angel.co/jobs)
-- [Authentic Jobs](https://authenticjobs.com/)
-- [IT Job Pro](https://itjobpro.com/)
-- [Cyber Coder](https://www.cybercoders.com/)
-- [Smashing Jobs](https://jobs.smashingmagazine.com/)
-
-There are more platforms than just these ones for finding Android developer jobs. However, this list can certainly get you started.
-
-
 ## Learning Resources
 
 There are plenty of resources and videos available online and it’s confusing for developers where to start learning all the concepts. Initially, as a beginner, if you get overwhelmed with so many concepts then don’t be afraid and stop learning. Have patience, explore, and stay committed to it.
@@ -149,11 +119,13 @@ There are plenty of resources and videos available online and it’s confusing f
 
 ### **Android Tutorials**
 
-#### **Android Tutorials in Java**
-
+- [Android SDK Tutorial](https://www.youtube.com/watch?v=DFbhpQpqyuo)
 - [How to Become a Mobile Developer?](https://www.youtube.com/watch?v=WvwwL0TwH6U)
 - [How to Become an Android Developer](https://www.youtube.com/watch?v=QFDub5UNOp0)
 - [How to become an Android App Developer | Complete RoadMap](https://www.youtube.com/watch?v=qCJxBvvULDk)
+
+#### **Android Tutorials in Java**
+
 - [Android Development for Beginners - Full Course](https://www.youtube.com/watch?v=fis26HvvDII)
 - [Android App Development in Java All-in-One Tutorial Series (4 HOURS!)](https://www.youtube.com/watch?v=tZvjSl9dswg)
 - [Android Full Course](https://www.youtube.com/watch?v=aS__9RbCyHg)
@@ -164,10 +136,16 @@ There are plenty of resources and videos available online and it’s confusing f
 - [Build A Simple Android App With Kotlin](https://www.youtube.com/watch?v=BBWyXo-3JGQ)
 - [Android Development Course - Build Native Apps with Kotlin Tutorial](https://www.youtube.com/watch?v=Iz08OTTjR04)
 
-### **Handling APIs**
+### **SQL Tutorial**
 
-- [Java API Tutorial For Beginners](https://www.youtube.com/watch?v=BzJpjejk9u8)
-- [Rest API | Web Service Tutorial](https://www.youtube.com/watch?v=BZi44GOD8kY)
+- [SQL Tutorial | Learn SQL](https://www.youtube.com/watch?v=xdMKqF52TtI)
+- [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+- [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+
+### **XML Tutorials**
+
+- [XML Tutorial For Beginners](https://www.youtube.com/watch?v=E-NciVkZFVs)
+- [XML Beginner Tutorial](https://www.youtube.com/watch?v=1JblVElt5K0)
 
 ### **Version Control System**
 
@@ -176,6 +154,10 @@ There are plenty of resources and videos available online and it’s confusing f
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
 - [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 
+### **Material Design Guidelines**
+
+- [Material Design as Fast As Possible](https://www.youtube.com/watch?v=8AkLfYOgIrE)
+- [The components of Material Design](https://www.youtube.com/watch?v=DPH3F0v1jB0)
 
 ## **Blogs**
 
@@ -183,8 +165,52 @@ There are plenty of resources and videos available online and it’s confusing f
 
 - [Java Tutorial](https://www.w3schools.com/java/default.asp)
 - [Tutorial of Java](https://www.tutorialspoint.com/java/index.htm)
+- [Java Programming language](https://www.geeksforgeeks.org/java/)
+
+### **Kotlin Tutorials**
+
+- [Kotlin Tutorial](https://www.tutorialspoint.com/kotlin/index.htm)
+- [Tutorial of Kotlin](https://www.w3schools.com/kotlin/index.php)
+- [Kotlin Programming Language](https://www.geeksforgeeks.org/kotlin-programming-language/)
+
+### **Android Tutorials**
+
+- [Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
+- [Learn Android](https://www.javatpoint.com/android-tutorial)
+- [Android Guideline](https://www.geeksforgeeks.org/android-tutorial/)
+- [Tutorial of Android](https://www.tutlane.com/tutorial/android)
+
 
 ### **Version Control System**
 
 - [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - [Git - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+
+## Find Work
+
+If you want to find a freelance Android developer job, you can look for clients on the following platforms:
+
+- [Upwork](https://www.upwork.com/) 
+- [Hubstaff](https://hubstaff.com/)
+- [Freelancer](https://www.freelancer.com/)
+- [Outsourcely](https://www.outsourcely.com/)
+- [Freeeup](https://freeup.net/)
+- [PeoplePerHour](https://www.peopleperhour.com/)
+
+If you are looking for how to be an Android developer in a full-time job, you can try the following job boards and platforms:
+
+- [LinkedIn](https://www.linkedin.com/)
+- [Indeed](https://www.indeed.com/)
+- [Twitter](https://www.twitter.com)
+- [Dice](https://www.dice.com/)
+- [Guru](https://www.guru.com/)
+- [Showwcase](https://www.showwcase.com)
+- [Glassdoor](https://www.glassdoor.com/)
+- [StackOverflow](https://stackoverflow.com/jobs)
+- [Angel List](https://angel.co/jobs)
+- [Authentic Jobs](https://authenticjobs.com/)
+- [IT Job Pro](https://itjobpro.com/)
+- [Cyber Coder](https://www.cybercoders.com/)
+- [Smashing Jobs](https://jobs.smashingmagazine.com/)
+
+There are more platforms than just these ones for finding Android developer jobs. However, this list can certainly get you started.
