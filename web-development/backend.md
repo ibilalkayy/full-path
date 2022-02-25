@@ -119,3 +119,86 @@ You can do this by making projects to deepen your programming skills and get han
 - Leverage [GitHub](https://github.com/) to learn more from other developers. Study their code and analyze how they went about solving technical challenges similar to your case.
 - Be patient with yourself. Bugs in your code makes you a better problem solver. Use [scientific debugging](https://medium.com/machine-words/scientific-debugging-part-1-8890b73b6c4c) principles to narrow down your challenges.
 - Go through what other developers have to say in forums like StackOverflow.
+
+# Resources
+
+## **YouTube Videos**
+
+### **Golang Tutorials**
+
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+- [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+- [Golang Web Development](https://www.youtube.com/watch?v=GV9ou3Pf1T0)
+- [Web Development with Go](https://www.youtube.com/c/joncalhoun/videos)
+- [Go Lang Practical Programming Tutorial](https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
+
+### **Java Tutorials**
+
+- [Java Crash Course](https://www.youtube.com/watch?v=OBabVd0STLM)
+- [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)
+- [Java Full Course [NEW]](https://www.youtube.com/watch?v=Qgl81fPcLc8)
+
+#### **Spring Boot Framework**
+
+- [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ)
+- [Spring Boot Tutorial | Full Course](https://www.youtube.com/watch?v=9SGDpanrc8U)
+- [Spring Boot Tutorials | Full Course](https://www.youtube.com/watch?v=35EQXmHKZYs)
+- [Full Stack Java Development Full Course](https://www.youtube.com/watch?v=lKgwDtOZaFo)
+
+### **JavaScipt Tutorials**
+
+- [The Best Backend JavaScript Frameworks of 2022](https://www.youtube.com/watch?v=Nn4wVTlIdIk)
+- [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
+- [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+- [Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM)
+- [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+
+### **Handling APIs**
+
+- [RESTful APIs in 100 Seconds](https://www.youtube.com/watch?v=-MTSQjw5DrM)
+- [What Is A RESTful API? Explanation of REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+- [APIs for Beginners - How to use an API](https://www.youtube.com/watch?v=GZvSYJDk-us)
+- [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+- [Golang REST API With Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
+- [Go API Tutorial - Make An API With Go](https://www.youtube.com/watch?v=bj77B59nkTQ)
+- [Java API Tutorial For Beginners](https://www.youtube.com/watch?v=BzJpjejk9u8)
+- [Rest API | Web Service Tutorial](https://www.youtube.com/watch?v=BZi44GOD8kY)
+- [How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+- [Build A REST API With Node.js, Express, & MongoDB](https://www.youtube.com/watch?v=fgTGADljAeg)
+
+### **Version Control System**
+
+- [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+
+## **Blogs**
+
+### **Golang Tutorials**
+
+- [Go by Example](https://gobyexample.com/)
+- [Go Bootcamp](http://www.golangbootcamp.com/book)
+
+### **Java Tutorials**
+
+- [Java Tutorial](https://www.w3schools.com/java/default.asp)
+- [Tutorial of Java](https://www.tutorialspoint.com/java/index.htm)
+
+### **JavaScript Tutorials**
+
+- [Node.js Tutorial](https://www.w3schools.com/nodejs/)
+- [Express JS Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
+
+### **Handling APIs**
+
+- [Web APIs](https://www.w3schools.com/js/js_api_intro.asp)
+- [What is REST?](https://restfulapi.net/)
+- [What is REST API?](https://www.techtarget.com/searchapparchitecture/definition/RESTful-API)
+
+### **Version Control System**
+
+- [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [Git - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)

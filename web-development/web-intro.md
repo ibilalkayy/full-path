@@ -14,10 +14,10 @@ A Front-End Developer works on the “client-side” of web development, meaning
 
 Front-End developers use below technologies to interact with the browser.
 
-    • HTML (Hypertext Markup Language)
-    • CSS (Cascading Style Sheets)
-    • JavaScript
-    • TypeScript
+- HTML (Hypertext Markup Language)
+- CSS (Cascading Style Sheets)
+- JavaScript
+- TypeScript
 
 ## Back-End Developer 
 
@@ -25,10 +25,10 @@ A Back-End Developer works on the “server-side” of web development. This is 
 
 Back-End programming languages include:
 
-    • Java
-    • Golang
-    • Python
-    • NodeJS
+- Java
+- Golang
+- Python
+- NodeJS
 
 You can start with any one of them.
 
@@ -55,6 +55,7 @@ You’re probably not going to see many job listings that say a company is looki
 - [Coder Foundry](https://www.youtube.com/channel/UCTGgxc_jIz2z9mpfInuPHWQ)
 - [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 - [Corey Schefar](https://www.youtube.com/user/schafer5)
+- [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 - [Programming Knowledge](https://www.youtube.com/user/ProgrammingKnowledge)
 - [Programming With Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
