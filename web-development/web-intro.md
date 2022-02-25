@@ -55,6 +55,7 @@ You’re probably not going to see many job listings that say a company is looki
 - [Coder Foundry](https://www.youtube.com/channel/UCTGgxc_jIz2z9mpfInuPHWQ)
 - [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 - [Corey Schefar](https://www.youtube.com/user/schafer5)
+- [Caleb Curry](https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA)
 - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 - [Programming Knowledge](https://www.youtube.com/user/ProgrammingKnowledge)
 - [Programming With Mosh](https://www.youtube.com/c/programmingwithmosh)
