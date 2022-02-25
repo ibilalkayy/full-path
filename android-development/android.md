@@ -28,12 +28,6 @@ Java is the official language for Android App Development and consequently, it i
 
 Kotlin is a cross-platform programming language that may be used as an alternative to Java for Android App Development. It has also been introduced as a secondary “official” Java language in 2017. The only sizable difference is that Kotlin removes the superfluous features of Java such as null pointer exceptions. It also removes the necessity of ending every line with a semicolon. In short, Kotlin is much simpler for beginners to try as compared to Java and it can also be used as an “entry point” for Android App Development.
 
-## Learning Resources
-
-There are plenty of resources and videos available online and it’s confusing for developers where to start learning all the concepts. Initially, as a beginner, if you get overwhelmed with so many concepts then don’t be afraid and stop learning. Have patience, explore, and stay committed to it.
-
-    The best way to learn Android is by developing some baby projects to some advanced projects.
-
 ## A Roadmap to Learn
 
 Start with the Overview of Android. Read some android related blogs and also research some Android-related things. For example read blogs on Introduction to Android Development, History of Android, Different Versions of Android, and also topics like Why Kotlin will replace Java for Android App Development, etc. and make a complete mind makeup to start your journey on Android. 
@@ -101,6 +95,96 @@ If you want to find a freelance Android developer job, you can look for clients 
 
 If you are looking for how to be an Android developer in a full-time job, you can try the following job boards and platforms:
 
-
+- [LinkedIn](https://www.linkedin.com/)
+- [Indeed](https://www.indeed.com/)
+- [Twitter](https://www.twitter.com)
+- [Dice](https://www.dice.com/)
+- [Guru](https://www.guru.com/)
+- [Showwcase](https://www.showwcase.com)
+- [Glassdoor](https://www.glassdoor.com/)
+- [StackOverflow](https://stackoverflow.com/jobs)
+- [Angel List](https://angel.co/jobs)
+- [Authentic Jobs](https://authenticjobs.com/)
+- [IT Job Pro](https://itjobpro.com/)
+- [Cyber Coder](https://www.cybercoders.com/)
+- [Smashing Jobs](https://jobs.smashingmagazine.com/)
 
 There are more platforms than just these ones for finding Android developer jobs. However, this list can certainly get you started.
+
+
+## Learning Resources
+
+There are plenty of resources and videos available online and it’s confusing for developers where to start learning all the concepts. Initially, as a beginner, if you get overwhelmed with so many concepts then don’t be afraid and stop learning. Have patience, explore, and stay committed to it.
+
+    The best way to learn Android is by developing some baby projects to some advanced projects.
+
+## **YouTube Channels**
+
+- [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Programming Knowledge](https://www.youtube.com/user/ProgrammingKnowledge)
+- [Programming With Mosh](https://www.youtube.com/c/programmingwithmosh)
+- [Devslopes](https://www.youtube.com/c/devslopes)
+- [Codedamn](https://www.youtube.com/c/codedamn)
+- [Simplilearn](https://www.youtube.com/c/SimplilearnOfficial)
+- [Fireship](https://www.youtube.com/c/Fireship)
+- [Edureka!](https://www.youtube.com/c/edurekaIN)
+- [Intellipaat](https://www.youtube.com/c/Intellipaat)
+- [My Lesson](https://www.youtube.com/c/MyLesson007)
+- [TutorialsEU](https://www.youtube.com/c/tutorialsEU)
+- [GeeksforGeeks](https://www.youtube.com/c/GeeksforGeeksVideos)
+
+## **YouTube Videos**
+
+### **Java Tutorials**
+
+- [Java Crash Course](https://www.youtube.com/watch?v=OBabVd0STLM)
+- [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)
+- [Java Full Course [NEW]](https://www.youtube.com/watch?v=Qgl81fPcLc8)
+
+### **Kotlin Tutorials**
+
+- [Kotlin Crash Course](https://www.youtube.com/watch?v=5flXf8nuq60)
+- [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+- [Kotlin Tutorial for Beginners | Full Course](https://www.youtube.com/watch?v=I6rkwJed-HY)
+
+### **Android Tutorials**
+
+#### **Android Tutorials in Java**
+
+- [How to Become a Mobile Developer?](https://www.youtube.com/watch?v=WvwwL0TwH6U)
+- [How to Become an Android Developer](https://www.youtube.com/watch?v=QFDub5UNOp0)
+- [How to become an Android App Developer | Complete RoadMap](https://www.youtube.com/watch?v=qCJxBvvULDk)
+- [Android Development for Beginners - Full Course](https://www.youtube.com/watch?v=fis26HvvDII)
+- [Android App Development in Java All-in-One Tutorial Series (4 HOURS!)](https://www.youtube.com/watch?v=tZvjSl9dswg)
+- [Android Full Course](https://www.youtube.com/watch?v=aS__9RbCyHg)
+
+#### **Android Tutorials in Kotlin**
+
+- [Kotlin Android Tutorial | Learn How to Build an Android App](https://www.youtube.com/watch?v=uRyvNKRkwbs)
+- [Build A Simple Android App With Kotlin](https://www.youtube.com/watch?v=BBWyXo-3JGQ)
+- [Android Development Course - Build Native Apps with Kotlin Tutorial](https://www.youtube.com/watch?v=Iz08OTTjR04)
+
+### **Handling APIs**
+
+- [Java API Tutorial For Beginners](https://www.youtube.com/watch?v=BzJpjejk9u8)
+- [Rest API | Web Service Tutorial](https://www.youtube.com/watch?v=BZi44GOD8kY)
+
+### **Version Control System**
+
+- [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+
+
+## **Blogs**
+
+### **Java Tutorials**
+
+- [Java Tutorial](https://www.w3schools.com/java/default.asp)
+- [Tutorial of Java](https://www.tutorialspoint.com/java/index.htm)
+
+### **Version Control System**
+
+- [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [Git - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
