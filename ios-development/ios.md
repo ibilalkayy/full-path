@@ -230,7 +230,7 @@ If you want to find a freelance Android developer job, you can look for clients 
 - [Freeeup](https://freeup.net/)
 - [PeoplePerHour](https://www.peopleperhour.com/)
 
-If you are looking for how to be an Android developer in a full-time job, you can try the following job boards and platforms:
+If you are looking for iOS developer job, you can try the following job boards and platforms:
 
 - [LinkedIn](https://www.linkedin.com/)
 - [Indeed](https://www.indeed.com/)
