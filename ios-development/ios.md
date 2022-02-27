@@ -221,7 +221,7 @@ The best way to start is with the developer’s guide. Here you will find inform
 
 ## Find Work
 
-If you want to find a freelance Android developer job, you can look for clients on the following platforms:
+If you want to find a freelance ios developer job, you can look for clients on the following platforms:
 
 - [Upwork](https://www.upwork.com/) 
 - [Hubstaff](https://hubstaff.com/)
