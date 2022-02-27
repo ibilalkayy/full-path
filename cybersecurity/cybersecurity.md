@@ -157,7 +157,7 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 - **burp suite** - Feature packed web penetration testing framework
 - **stegsolve** - Pass various filters over images to look for hidden text
 - **GDB** - Binary debugger
-- **Terminal**
+- **Terminal** - Communicating with the terminal
 
 ### **Platforms**
 
