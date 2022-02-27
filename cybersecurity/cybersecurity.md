@@ -85,13 +85,16 @@ The position of a Chief Information Security Officer (CISO), a mid-executive lev
 - Gray Hat Python by Justin Seitz
 - Malware Analysts Cookbook.
 
+### **Random resources**
+
+- [INE FREE Training](https://checkout.ine.com/starter-pass) **(Highly highly recommended)**
+- [How to make an INE FREE Training account](https://www.youtube.com/watch?v=ymdhCZdARsI)
+- [Cyber_Insecurity in Twitch](https://twitch.tv/cyber_insecurity)  **(Highly recommended)**
+
 ### **YouTube Channels**
 
 - [David Bombal](https://www.youtube.com/c/DavidBombal/videos)  **(Highly recommended)**
 - [Cyber Insecurity](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)  **(Highly recommended)**
-- Cyber_Insecurity in Twitch  **(Highly recommended)**
-- INE FREE Training (Highly highly recommended)
-- How to make an INE FREE Training account
 - [Cyberspatial](https://www.youtube.com/c/Cyberspatial/videos)
 - [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 - [Network Chuck](https://www.youtube.com/c/NetworkChuck/videos)
@@ -149,6 +152,7 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 
 ### **Tools**
 
+- **Kali Linux** - Operating system for penetration tester
 - **binwalk** - Analyze and extract files
 - **burp suite** - Feature packed web penetration testing framework
 - **stegsolve** - Pass various filters over images to look for hidden text
