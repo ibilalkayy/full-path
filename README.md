@@ -13,11 +13,8 @@ The technologies of which I am providing information are:
 - Web Development
 - Android Development
 - iOS Development
-- Artificial Intelligence
 - Cybersecurity
 - Devops
-- Cloud Computing
-- Robotics
 
 I'll be providing much information about 
 - How to get started in these technologies? 
