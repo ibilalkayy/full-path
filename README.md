@@ -14,6 +14,7 @@ The technologies of which I am providing information are:
 - Android Development
 - iOS Development
 - Cybersecurity
+- Artificial Intelligence
 - Devops
 
 I'll be providing much information about 
