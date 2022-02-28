@@ -13,7 +13,6 @@ The technologies of which I am providing information are:
 - Web Development
 - Android Development
 - iOS Development
-- Artificial Intelligence
 - Cybersecurity
 - Devops
 
