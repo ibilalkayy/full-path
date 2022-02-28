@@ -16,8 +16,6 @@ The technologies of which I am providing information are:
 - Artificial Intelligence
 - Cybersecurity
 - Devops
-- Cloud Computing
-- Robotics
 
 I'll be providing much information about 
 - How to get started in these technologies? 
